@@ -1,0 +1,110 @@
+body{
+background-color:black;
+}
+
+   
+.navbar li{
+  
+    display: inline;
+}
+.navbar ul li a{
+    text-decoration: none;
+    padding: 20px;
+    color: white;
+    
+}
+.navbar ul li a:hover{
+    color: rgb(218, 142, 29);
+    
+}
+.navbar{
+    margin-left: 50px;
+    margin-top: 40px;
+}
+#name{
+    font-size: 10px;
+}
+#pass{
+    font-size: 10px;
+    margin-top:25px;
+}
+.action{
+    margin-top: 200px;
+    margin-left: 100px;
+   
+}
+#name input
+{
+    padding: 15px;
+    text-align: center;
+    background-color: transparent;
+    color:white;
+    border-radius: 20px;
+    outline: none;
+    border: 2px solid #2196f3;
+}
+#pass input
+{
+    padding: 15px;
+    border: 2px solid #2196f3;
+    text-align: center;
+    background-color: transparent;
+    color: white;
+    border-radius: 20px;
+    outline: none;
+}
+#btn1
+{
+    margin-top: 25px;
+    margin-left: 120px;
+    padding: 10px;
+    border: 2px solid #2196f3;
+    background-color: transparent;
+    border-radius: 15px;
+    outline: none;
+    color: #2196f3;
+
+
+}
+#btn2{
+    margin-left: 25px;
+    padding: 10px;
+    
+    border: 2px solid #2196f3;
+    background-color: transparent;
+    border-radius: 15px;
+    outline: none;
+    color: #2196f3;
+  
+
+}
+#btn3{
+     
+    color:#2196f3;
+    outline: none;
+    border: 2px solid #2196f3;
+    margin-left: 25px;
+    padding: 10px;
+    background: black;    
+    border-radius: 15px;
+    }
+
+#btn1:hover{background-color:#2196f3;
+    box-shadow: 0 0 10px #2196f3,0 0 30px #2196f3,0 0 80px #2196f3;
+    color: black;
+}
+#btn2:hover{background-color:#2196f3;
+    box-shadow: 0 0 10px #2196f3,0 0 30px #2196f3,0 0 80px #2196f3;
+    color: black;
+}
+#btn3:hover{
+    background-color:#2196f3;
+    box-shadow: 0 0 10px #2196f3,0 0 30px #2196f3,0 0 80px #2196f3;
+    color: black;
+
+}
+#logo1 a img
+{
+    height: 80px;
+    
+}
